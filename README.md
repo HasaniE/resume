@@ -1,2 +1,2 @@
 # resume
-technical cv
+resume using HTML and CSS
